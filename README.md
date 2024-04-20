@@ -74,7 +74,7 @@ source .env/bin/activate
 
 **3. Cloner le projet**
 ```
-git clone https://github.com/harouna227/authentification-system.git
+git clone https://github.com/harouna227/Api-auth.git
 ```
 Une fois cloné, rentrer dans le dossier src
 ```
